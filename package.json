@@ -1,6 +1,6 @@
 {
-  "name": "heel-hook",
-  "version": "1.0.0",
+  "name": "@thhoang.me/heel-hook",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,5 +16,9 @@
     "react-dom": "^18.3.1",
     "typescript": "^5.6.2"
   },
-  "types": "index.d.ts"
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoang-ta/heel-hook"
+  }
 }
